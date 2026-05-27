@@ -1,4 +1,4 @@
-# Hi there, I'm João Pedro Gritz! 👋
+# Hi there, I'm João Pedro Oliveira Gritz! 👋
 
 I am a passionate **Software Engineering Student** currently in my 5th semester at **Instituto Infnet**, based in Rio de Janeiro, Brazil. My primary focus is on **Backend Architecture**, database design, and building robust, scalable, enterprise-grade RESTful APIs.
 
