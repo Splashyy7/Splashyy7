@@ -81,13 +81,6 @@ An enterprise-grade RESTful API structured around Java 21, Spring Boot 4, and Sp
 - **Caching & Performance:** Embedded **Caffeine Cache** (24-hour TTL) to optimize heavily aggregated database components.
 - **DevOps Ready:** Built a fully containerized environment using **Docker Compose** with automated infrastructure health checks.
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Splashyy7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Splashyy7's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splashyy7&layout=compact&theme=dark&hide=html,css" alt="Top Languages" height="160" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
